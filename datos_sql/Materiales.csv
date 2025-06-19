@@ -1,0 +1,501 @@
+﻿ID_MAT,TEX_MAT,STK_DISP,ID_GC,ID_ART,ID_ALM,ID_UM
+1,Espejo retrovisor,768,2,3,2,1
+2,Correa,445,1,2,1,1
+3,Parabrisas,780,1,3,1,1
+4,Parabrisas,623,1,1,2,1
+5,Espejo retrovisor,976,1,3,2,1
+6,Disco de freno,114,2,2,1,2
+7,Amortiguador,899,1,1,3,1
+8,Aceite de motor,778,1,1,3,3
+9,Espejo retrovisor,169,2,3,3,1
+10,Cubierta,951,1,3,2,2
+11,Filtro de combustible,448,2,1,1,1
+12,Aceite de motor,346,1,3,3,3
+13,Rodamiento,225,1,1,3,1
+14,Amortiguador,69,1,2,1,1
+15,Radiador,685,2,1,3,1
+16,Rodamiento,590,2,1,2,1
+17,Cubierta,96,1,3,2,2
+18,Bateria,420,2,3,1,1
+19,Filtro de aire,412,2,1,1,1
+20,Cubierta,549,2,1,2,2
+21,Radiador,473,1,1,2,1
+22,Filtro de aire,667,1,1,1,1
+23,Bateria,497,2,1,2,1
+24,Piston,388,1,2,2,1
+25,Correa,433,2,1,1,1
+26,Cubierta,991,1,3,3,2
+27,Bujia,58,1,3,2,2
+28,Filtro de aire,983,1,1,1,1
+29,Amortiguador,413,1,3,1,1
+30,Tambor de freno,83,2,3,3,1
+31,Radiador,209,2,1,2,1
+32,Inyector,687,2,2,2,2
+33,Disco de freno,469,1,1,3,2
+34,Parabrisas,271,1,2,1,1
+35,Filtro de combustible,291,1,2,3,1
+36,Tambor de freno,826,1,3,3,1
+37,Carburador,961,1,2,1,2
+38,Espejo retrovisor,159,2,2,3,2
+39,Bujia,208,2,3,2,2
+40,Filtro de aire,94,2,2,1,1
+41,Bujia,789,1,3,2,2
+42,Embrague,564,2,3,1,1
+43,Aceite de motor,967,1,3,1,3
+44,Rodamiento,565,1,2,1,1
+45,Correa,373,1,2,1,1
+46,Carburador,362,2,3,3,1
+47,Amortiguador,885,1,1,2,1
+48,Piston,754,2,2,3,2
+49,Radiador,163,1,2,1,1
+50,Amortiguador,204,2,2,2,1
+51,Amortiguador,24,1,2,2,1
+52,Aceite de motor,990,2,2,3,3
+53,Espejo retrovisor,339,1,1,2,2
+54,Rodamiento,985,2,1,1,1
+55,Filtro de combustible,746,2,2,3,1
+56,Alternador,921,1,2,1,1
+57,Disco de freno,532,1,2,2,1
+58,Bujia,638,2,3,1,2
+59,Parabrisas,316,2,2,2,1
+60,Espejo retrovisor,130,1,2,3,1
+61,Piston,630,2,2,3,2
+62,Correa,293,1,2,3,1
+63,Embrague,452,2,3,1,1
+64,Piston,674,1,2,3,2
+65,Aceite de motor,838,1,3,2,3
+66,Cubierta,150,1,1,1,2
+67,Tambor de freno,870,1,2,2,2
+68,Alternador,506,2,1,1,1
+69,Carburador,797,2,1,1,1
+70,Filtro de aire,570,1,1,2,1
+71,Embrague,683,2,2,3,1
+72,Espejo retrovisor,456,1,3,2,2
+73,Radiador,769,1,3,2,1
+74,Amortiguador,281,2,1,3,1
+75,Amortiguador,278,2,2,3,1
+76,Inyector,154,1,2,3,2
+77,Cubierta,65,2,2,2,2
+78,Bateria,63,1,2,2,1
+79,Rodamiento,389,2,1,2,1
+80,Alternador,873,2,3,3,1
+81,Sensor de oxigeno,224,2,2,2,1
+82,Alternador,344,2,3,1,1
+83,Inyector,637,1,2,3,1
+84,Aceite de motor,658,2,1,2,3
+85,Filtro de aire,266,2,2,1,1
+86,Bujia,345,2,2,2,1
+87,Aceite de motor,481,1,3,3,3
+88,Filtro de combustible,229,1,3,1,1
+89,Amortiguador,204,1,3,1,1
+90,Inyector,484,1,3,1,2
+91,Radiador,785,2,1,3,1
+92,Piston,987,2,1,3,1
+93,Correa,589,2,2,3,1
+94,Aceite de motor,606,1,1,3,3
+95,Tambor de freno,824,1,3,1,1
+96,Espejo retrovisor,438,2,1,3,1
+97,Disco de freno,869,2,2,1,1
+98,Filtro de combustible,650,2,3,1,1
+99,Piston,751,2,3,3,1
+100,Embrague,446,2,2,1,1
+101,Radiador,902,2,1,2,1
+102,Bujia,29,2,2,1,1
+103,Cubierta,363,2,2,2,2
+104,Espejo retrovisor,10,1,1,1,1
+105,Sensor de oxigeno,568,1,3,2,1
+106,Embrague,811,1,1,2,1
+107,Alternador,708,1,2,3,1
+108,Sensor de oxigeno,566,2,2,3,1
+109,Filtro de combustible,719,2,2,2,1
+110,Amortiguador,123,1,2,1,1
+111,Cubierta,221,2,2,3,1
+112,Carburador,852,1,2,1,1
+113,Piston,309,1,3,3,1
+114,Radiador,46,1,3,2,1
+115,Sensor de oxigeno,105,1,3,2,1
+116,Sensor de oxigeno,451,2,1,1,1
+117,Sensor de oxigeno,116,1,2,2,1
+118,Rodamiento,644,1,1,1,1
+119,Aceite de motor,254,1,3,2,3
+120,Parabrisas,389,2,2,2,1
+121,Correa,582,1,3,3,1
+122,Cubierta,640,1,2,3,1
+123,Piston,245,1,3,1,1
+124,Disco de freno,418,2,3,3,2
+125,Correa,33,1,2,3,1
+126,Embrague,72,1,2,3,1
+127,Bateria,117,1,3,1,1
+128,Inyector,73,1,1,2,1
+129,Embrague,127,2,3,2,1
+130,Radiador,512,2,2,1,1
+131,Bateria,752,2,3,2,1
+132,Aceite de motor,234,1,3,2,1
+133,Piston,481,2,2,1,1
+134,Sensor de oxigeno,992,1,2,2,1
+135,Bujia,328,1,1,2,1
+136,Sensor de oxigeno,295,2,3,1,1
+137,Aceite de motor,322,2,2,1,3
+138,Parabrisas,844,1,3,3,1
+139,Bateria,55,1,3,2,1
+140,Embrague,778,1,1,2,1
+141,Correa,448,2,1,1,1
+142,Piston,318,1,3,2,1
+143,Amortiguador,861,1,2,1,1
+144,Sensor de oxigeno,955,2,3,3,1
+145,Bateria,854,2,2,1,1
+146,Espejo retrovisor,148,2,1,3,1
+147,Aceite de motor,282,2,2,3,1
+148,Disco de freno,289,2,3,3,1
+149,Inyector,457,2,2,2,1
+150,Embrague,955,2,1,3,1
+151,Rodamiento,392,1,2,1,1
+152,Sensor de oxigeno,722,2,2,3,1
+153,Sensor de oxigeno,987,1,1,3,1
+154,Carburador,895,2,1,3,1
+155,Disco de freno,739,1,2,3,1
+156,Aceite de motor,480,2,2,3,3
+157,Aceite de motor,872,2,3,3,3
+158,Bujia,641,2,3,1,2
+159,Amortiguador,646,2,1,3,1
+160,Bateria,100,1,2,1,1
+161,Disco de freno,47,2,1,2,2
+162,Filtro de combustible,441,1,1,3,1
+163,Rodamiento,698,1,1,1,1
+164,Tambor de freno,891,2,3,3,2
+165,Sensor de oxigeno,934,1,1,2,1
+166,Embrague,261,1,2,2,1
+167,Aceite de motor,452,2,3,2,3
+168,Radiador,467,2,1,2,1
+169,Carburador,242,2,3,2,1
+170,Correa,22,2,2,1,1
+171,Tambor de freno,763,2,2,1,1
+172,Amortiguador,651,1,3,2,1
+173,Carburador,925,1,2,2,1
+174,Rodamiento,373,1,1,2,1
+175,Bateria,179,1,1,3,1
+176,Parabrisas,513,2,1,2,1
+177,Correa,764,2,1,2,1
+178,Inyector,772,1,3,3,1
+179,Espejo retrovisor,374,1,2,1,1
+180,Espejo retrovisor,126,2,2,3,1
+181,Rodamiento,390,2,1,3,1
+182,Sensor de oxigeno,25,2,3,1,1
+183,Embrague,931,2,3,2,1
+184,Inyector,46,1,2,2,1
+185,Carburador,240,1,2,2,1
+186,Espejo retrovisor,429,1,2,3,1
+187,Sensor de oxigeno,630,2,2,1,1
+188,Cubierta,454,2,1,2,1
+189,Filtro de combustible,557,2,1,2,1
+190,Cubierta,991,1,2,1,1
+191,Tambor de freno,994,1,1,2,1
+192,Inyector,805,1,1,3,1
+193,Rodamiento,221,1,2,1,1
+194,Radiador,879,1,1,3,1
+195,Piston,112,1,1,1,1
+196,Amortiguador,602,2,1,1,1
+197,Filtro de aire,129,2,3,1,1
+198,Sensor de oxigeno,459,2,3,3,1
+199,Embrague,515,1,3,1,1
+200,Embrague,658,1,1,2,1
+201,Bateria,702,1,2,3,1
+202,Aceite de motor,920,1,2,3,3
+203,Aceite de motor,129,2,3,3,3
+204,Alternador,611,2,2,3,1
+205,Carburador,812,1,3,3,1
+206,Bateria,462,1,2,2,1
+207,Alternador,425,1,2,2,1
+208,Radiador,383,1,3,2,1
+209,Aceite de motor,851,1,1,2,1
+210,Filtro de combustible,831,1,3,1,1
+211,Carburador,420,2,3,2,1
+212,Correa,614,2,2,1,1
+213,Inyector,672,2,1,1,2
+214,Espejo retrovisor,376,1,2,3,2
+215,Bateria,865,1,3,3,1
+216,Disco de freno,184,2,3,2,1
+217,Filtro de combustible,6,1,1,3,1
+218,Aceite de motor,145,1,1,3,3
+219,Alternador,429,2,2,1,1
+220,Correa,738,2,3,3,1
+221,Filtro de aire,159,1,3,1,1
+222,Radiador,453,2,2,3,1
+223,Bateria,279,1,3,1,1
+224,Bateria,113,2,3,3,1
+225,Parabrisas,683,2,1,1,1
+226,Tambor de freno,56,1,1,2,1
+227,Inyector,782,2,2,2,1
+228,Disco de freno,509,2,1,1,1
+229,Espejo retrovisor,720,1,3,3,1
+230,Aceite de motor,406,1,2,1,3
+231,Aceite de motor,882,2,3,2,3
+232,Bateria,296,1,2,1,1
+233,Piston,820,2,3,2,1
+234,Bateria,864,1,1,2,1
+235,Parabrisas,80,2,2,3,1
+236,Amortiguador,341,1,1,3,1
+237,Parabrisas,522,1,2,2,1
+238,Amortiguador,105,1,2,1,1
+239,Tambor de freno,156,1,1,3,1
+240,Embrague,772,2,3,3,1
+241,Bujia,154,2,1,2,1
+242,Correa,815,2,3,1,1
+243,Parabrisas,75,2,2,2,1
+244,Filtro de aire,377,2,1,3,1
+245,Tambor de freno,608,2,2,3,1
+246,Embrague,930,1,2,3,1
+247,Parabrisas,154,1,2,1,1
+248,Aceite de motor,516,1,1,1,1
+249,Embrague,536,1,2,2,1
+250,Alternador,418,2,3,3,1
+251,Bujia,67,2,1,3,1
+252,Correa,258,1,2,1,1
+253,Filtro de combustible,317,2,1,3,1
+254,Correa,572,2,3,2,1
+255,Parabrisas,95,2,3,2,1
+256,Filtro de combustible,316,1,1,2,1
+257,Cubierta,231,1,1,1,1
+258,Carburador,519,1,3,2,1
+259,Tambor de freno,385,1,1,1,1
+260,Embrague,44,2,2,3,1
+261,Embrague,625,2,3,2,1
+262,Espejo retrovisor,244,2,2,1,1
+263,Rodamiento,451,2,2,2,1
+264,Piston,836,1,3,1,1
+265,Filtro de aire,656,2,2,3,1
+266,Parabrisas,871,1,2,1,1
+267,Radiador,460,1,2,1,1
+268,Embrague,905,2,1,2,1
+269,Alternador,514,2,1,2,1
+270,Filtro de combustible,229,1,2,1,1
+271,Inyector,140,1,2,2,1
+272,Sensor de oxigeno,459,1,1,1,1
+273,Cubierta,855,1,3,3,1
+274,Carburador,794,2,1,2,1
+275,Filtro de aire,244,2,3,3,1
+276,Aceite de motor,113,2,3,3,1
+277,Parabrisas,588,1,3,1,1
+278,Bateria,1,2,1,3,1
+279,Piston,680,1,3,2,1
+280,Parabrisas,557,1,2,2,1
+281,Alternador,382,2,3,1,3
+282,Aceite de motor,353,1,3,3,3
+283,Rodamiento,752,2,1,1,1
+284,Espejo retrovisor,346,1,3,2,1
+285,Piston,830,1,1,3,1
+286,Filtro de aire,300,1,1,1,1
+287,Bujia,955,2,3,2,1
+288,Radiador,37,1,2,2,1
+289,Bujia,279,1,2,2,1
+290,Embrague,916,2,2,1,1
+291,Sensor de oxigeno,376,2,1,3,1
+292,Aceite de motor,440,1,3,2,3
+293,Carburador,81,2,3,2,1
+294,Embrague,617,2,1,3,1
+295,Filtro de combustible,457,1,3,2,1
+296,Radiador,654,1,1,3,1
+297,Filtro de combustible,525,1,1,1,1
+298,Filtro de aire,129,1,1,3,1
+299,Filtro de combustible,392,1,3,1,1
+300,Filtro de combustible,380,2,1,3,1
+301,Parabrisas,375,2,2,3,1
+302,Amortiguador,983,1,1,3,1
+303,Sensor de oxigeno,530,2,3,1,1
+304,Radiador,720,2,1,3,1
+305,Sensor de oxigeno,204,1,1,1,1
+306,Piston,920,2,1,3,1
+307,Filtro de combustible,726,1,3,3,1
+308,Correa,871,1,3,3,1
+309,Filtro de combustible,520,1,1,1,1
+310,Amortiguador,809,2,1,2,1
+311,Embrague,822,1,3,1,1
+312,Correa,407,2,3,2,1
+313,Rodamiento,75,1,2,3,1
+314,Embrague,477,2,1,3,1
+315,Inyector,443,1,1,3,1
+316,Correa,168,1,2,3,1
+317,Filtro de combustible,970,2,1,2,1
+318,Espejo retrovisor,281,1,3,2,1
+319,Parabrisas,656,1,3,3,1
+320,Piston,674,2,3,1,1
+321,Aceite de motor,46,2,3,1,3
+322,Tambor de freno,654,1,2,3,1
+323,Correa,494,1,3,2,1
+324,Embrague,74,1,1,2,1
+325,Sensor de oxigeno,475,1,2,3,1
+326,Bujia,882,2,3,2,1
+327,Inyector,778,2,3,3,1
+328,Bujia,247,2,1,2,1
+329,Amortiguador,144,1,1,2,1
+330,Tambor de freno,428,1,1,2,1
+331,Cubierta,781,1,2,3,1
+332,Sensor de oxigeno,900,2,2,1,1
+333,Alternador,517,2,1,1,1
+334,Filtro de aire,51,2,2,3,1
+335,Correa,549,1,1,2,1
+336,Radiador,744,2,2,2,1
+337,Alternador,52,1,2,3,1
+338,Aceite de motor,395,2,3,2,3
+339,Inyector,998,1,2,2,2
+340,Espejo retrovisor,961,2,1,1,1
+341,Parabrisas,41,1,1,1,1
+342,Sensor de oxigeno,531,2,1,3,1
+343,Bujia,953,2,1,2,1
+344,Rodamiento,344,2,3,3,1
+345,Sensor de oxigeno,835,1,2,2,1
+346,Bateria,597,2,3,3,1
+347,Tambor de freno,485,2,3,3,1
+348,Filtro de aire,597,2,1,3,1
+349,Inyector,841,1,1,3,1
+350,Cubierta,19,2,2,2,1
+351,Bateria,707,1,2,3,1
+352,Filtro de aire,722,1,3,1,1
+353,Sensor de oxigeno,538,2,2,1,1
+354,Espejo retrovisor,350,2,3,3,1
+355,Tambor de freno,495,1,1,2,1
+356,Amortiguador,964,2,2,3,1
+357,Sensor de oxigeno,324,2,2,3,1
+358,Correa,124,2,2,2,1
+359,Correa,43,2,3,1,1
+360,Embrague,671,2,3,2,1
+361,Cubierta,847,2,3,3,1
+362,Inyector,111,1,1,1,1
+363,Amortiguador,53,1,2,2,1
+364,Carburador,697,1,1,3,1
+365,Bateria,668,2,2,3,1
+366,Correa,328,2,3,1,1
+367,Rodamiento,237,1,1,2,1
+368,Filtro de aire,856,2,2,1,1
+369,Filtro de aire,9,2,3,3,1
+370,Bujia,291,2,3,3,1
+371,Inyector,871,2,2,1,1
+372,Bujia,166,2,3,2,1
+373,Disco de freno,754,2,2,3,1
+374,Piston,625,2,2,3,1
+375,Aceite de motor,410,1,1,1,3
+376,Bujia,958,1,1,2,1
+377,Amortiguador,457,2,2,2,1
+378,Radiador,669,2,3,1,1
+379,Carburador,476,2,1,2,1
+380,Carburador,654,2,2,3,1
+381,Amortiguador,980,1,2,1,1
+382,Tambor de freno,382,2,3,3,1
+383,Espejo retrovisor,821,1,1,3,1
+384,Parabrisas,457,2,1,3,1
+385,Filtro de aire,848,1,3,3,1
+386,Piston,335,2,1,3,1
+387,Rodamiento,500,1,3,2,1
+388,Embrague,135,2,2,3,1
+389,Espejo retrovisor,473,2,3,1,1
+390,Radiador,836,1,3,1,1
+391,Filtro de aire,433,2,3,1,1
+392,Aceite de motor,956,2,1,2,3
+393,Piston,787,1,3,3,1
+394,Filtro de combustible,912,2,2,2,1
+395,Aceite de motor,699,1,3,2,3
+396,Piston,550,2,3,1,2
+397,Disco de freno,774,1,2,2,2
+398,Espejo retrovisor,388,1,1,2,2
+399,Inyector,282,1,3,1,1
+400,Bateria,629,1,1,1,1
+401,Carburador,608,1,2,3,1
+402,Amortiguador,758,1,2,2,1
+403,Espejo retrovisor,222,1,1,3,1
+404,Amortiguador,835,2,3,3,1
+405,Amortiguador,309,1,3,3,1
+406,Bateria,307,2,1,3,1
+407,Bateria,569,2,1,2,1
+408,Parabrisas,326,2,2,1,1
+409,Alternador,188,2,1,1,1
+410,Inyector,825,2,1,3,1
+411,Bateria,570,1,2,1,1
+412,Cubierta,338,1,2,2,1
+413,Espejo retrovisor,741,1,1,2,1
+414,Tambor de freno,617,1,1,1,1
+415,Sensor de oxigeno,213,2,2,1,1
+416,Cubierta,985,1,3,2,1
+417,Tambor de freno,720,1,2,1,1
+418,Correa,389,2,3,3,1
+419,Correa,267,2,3,2,1
+420,Carburador,822,2,2,1,1
+421,Bujia,423,1,3,1,1
+422,Disco de freno,267,2,2,1,1
+423,Bujia,235,2,3,1,1
+424,Espejo retrovisor,670,2,2,2,1
+425,Embrague,172,2,1,1,1
+426,Piston,938,1,3,1,1
+427,Filtro de aire,782,1,2,1,1
+428,Aceite de motor,724,1,1,1,3
+429,Filtro de combustible,61,2,3,2,1
+430,Disco de freno,544,2,1,1,1
+431,Espejo retrovisor,1000,2,1,3,1
+432,Piston,109,1,3,1,1
+433,Cubierta,634,2,2,2,1
+434,Aceite de motor,382,2,2,3,3
+435,Amortiguador,307,1,3,3,1
+436,Aceite de motor,415,2,2,3,3
+437,Filtro de aire,652,1,3,1,1
+438,Sensor de oxigeno,865,2,3,2,1
+439,Parabrisas,941,1,1,1,1
+440,Radiador,47,1,3,2,1
+441,Piston,951,2,1,1,1
+442,Alternador,951,1,2,1,1
+443,Rodamiento,854,2,3,3,1
+444,Alternador,773,1,3,3,1
+445,Parabrisas,763,2,1,1,1
+446,Amortiguador,858,1,2,3,1
+447,Bujia,30,2,2,2,1
+448,Filtro de combustible,566,2,2,1,1
+449,Aceite de motor,790,2,1,3,3
+450,Aceite de motor,274,1,2,3,3
+451,Alternador,324,2,1,1,1
+452,Correa,455,2,2,1,1
+453,Aceite de motor,191,2,2,3,1
+454,Carburador,26,1,2,3,1
+455,Tambor de freno,612,2,2,1,1
+456,Bateria,397,1,3,3,1
+457,Rodamiento,533,1,3,2,1
+458,Inyector,275,2,2,2,1
+459,Aceite de motor,171,2,2,2,3
+460,Sensor de oxigeno,801,1,2,2,1
+461,Sensor de oxigeno,608,1,2,1,1
+462,Correa,6,2,2,3,1
+463,Bujia,450,2,2,3,1
+464,Correa,328,1,2,2,1
+465,Alternador,991,2,2,3,1
+466,Rodamiento,800,1,2,2,1
+467,Alternador,373,1,3,1,2
+468,Espejo retrovisor,27,2,3,1,1
+469,Correa,851,1,2,3,1
+470,Inyector,648,2,1,2,1
+471,Bateria,808,2,1,2,1
+472,Rodamiento,410,2,3,1,1
+473,Espejo retrovisor,608,1,1,1,1
+474,Piston,662,1,3,3,2
+475,Bujia,988,2,1,1,2
+476,Radiador,227,1,2,2,1
+477,Embrague,790,1,2,1,1
+478,Carburador,302,2,1,1,1
+479,Filtro de combustible,319,2,2,1,1
+480,Filtro de combustible,487,1,2,3,1
+481,Bujia,68,2,1,3,1
+482,Disco de freno,869,2,3,1,1
+483,Amortiguador,528,1,3,1,1
+484,Espejo retrovisor,436,2,1,2,1
+485,Piston,655,2,2,1,1
+486,Embrague,606,2,2,1,1
+487,Cubierta,285,1,3,1,1
+488,Filtro de combustible,333,1,2,1,1
+489,Sensor de oxigeno,540,2,3,2,1
+490,Rodamiento,116,2,2,2,1
+491,Correa,940,1,3,1,1
+492,Carburador,244,2,1,1,1
+493,Inyector,523,2,2,3,1
+494,Rodamiento,392,2,1,2,1
+495,Espejo retrovisor,170,2,2,1,1
+496,Bujia,862,2,3,1,1
+497,Disco de freno,496,1,1,2,1
+498,Bateria,701,2,2,3,1
+499,Sensor de oxigeno,171,1,3,1,1
+500,Correa,33,2,1,3,1
